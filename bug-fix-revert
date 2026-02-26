@@ -1,0 +1,9 @@
+curl -s https://api.github.com/repos/joshiyash2324-source/mcino-introduction-to-git-and-github/pulls | grep -i head
+"head": {
+  "label": "joshiyash2324-source:bug_fix_typo",
+  "ref": "bug_fix_typo",
+  "repo": {
+    "full_name": "joshiyash2324-source/mcino-introduction-to-git-and-github",
+    "fork": true
+  }
+}
