@@ -1,0 +1,2 @@
+curl -s https://api.github.com/repos/joshiyash2324-source/mcino-introduction-to-git-and-github | grep -i fork
+"fork": true
