@@ -56,3 +56,4 @@ Simple Interest is: 100
 - CODE_OF_CONDUCT.md
 - CONTRIBUTING.md
 - simple-interest.sh
+This is a test change for merge screenshot.
