@@ -9,6 +9,6 @@ Simple Interest = (Principal × Rate × Time) / 100
 - Principal amount
 - Rate of interest
 - Time period
-
 ## Output:
 - Simple interest value
+# Fixed README typo for assignment
